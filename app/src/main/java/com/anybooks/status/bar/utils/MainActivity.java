@@ -1,9 +1,9 @@
 package com.anybooks.status.bar.utils;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     @Override
@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String name = "hello!!";
         Log.d("zp_test", name);
         String age = "develop";
+        Log.d("zp_test", name);
+        Log.d("zp_test", name);
     }
 }
