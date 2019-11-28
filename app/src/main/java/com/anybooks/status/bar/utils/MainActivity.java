@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String name = "hello!!";
         Log.d("zp_test", name);
+        String age = "develop";
     }
 }
