@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String name = "hello!!";
         Log.d("zp_test", name);
         Log.d("zp_test", name);
+        Log.d("zp_test", name);
     }
 }
